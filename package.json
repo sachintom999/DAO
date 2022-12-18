@@ -1,0 +1,23 @@
+{
+  "name": "dao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.5",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
+    "@openzeppelin/contracts": "^4.8.0",
+    "chai": "^4.3.7",
+    "ethers": "^5.7.2",
+    "fd": "^0.0.3",
+    "hardhat": "^2.12.4",
+    "hardhat-deploy": "^0.11.22",
+    "mocha": "^10.2.0"
+  }
+}
